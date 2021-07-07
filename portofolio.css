@@ -1,0 +1,42 @@
+.jumbotron{
+    background-color: orangered;
+    height: 397px;
+}
+.pict1{
+    width: 200px;
+    border-radius: 50%;
+}
+.gambar{
+    width: 90px;
+    display: flexbox;
+    float: left;
+
+}
+.text{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gambar1{
+    width: 90px;
+    display: flexbox;
+    float: right;
+
+}
+.text1{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gambar2{
+    width: 90px;
+    display: flexbox;
+    float: left;
+
+}
+.text2{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gelombang{
+    position: relative;
+    bottom: 36px;
+}
